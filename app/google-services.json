@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534196248527",
+    "project_id": "rental-management-3252a",
+    "storage_bucket": "rental-management-3252a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534196248527:android:e825cf102fecbb701ffcba",
+        "android_client_info": {
+          "package_name": "com.example.rentalmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534196248527-ki0ji4fe5s8fgc47aamtrb3mbo34uc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb2cXi7fxJzUVSj8auY7l7RqTI2UkBLbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534196248527-ki0ji4fe5s8fgc47aamtrb3mbo34uc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

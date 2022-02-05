@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RENTAL MANAGEMENT</string>
+
+    <string-array name="Shops">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+        <item>S4</item>
+        <item>S5</item>
+        <item>S6</item>
+        <item>S7</item>
+        <item>S8</item>
+    </string-array>
+</resources>
